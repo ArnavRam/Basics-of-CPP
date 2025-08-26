@@ -14,7 +14,6 @@ int main() {
     cin >> num2;
     sum = num1 + num2;
     cout << "Sum of given numbers = " << sum << endl;
-    
     return 0;
 }
 
@@ -23,3 +22,4 @@ Enter first number: 4
 Enter second number: 8
 Sum of given numbers = 12
 */
+
