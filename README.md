@@ -9,7 +9,7 @@
 ---
 
 ## Software Required
-- Visual Studio (or any C++ compatible IDE/Compiler)
+- Visual Studio Code
 
 ---
 
